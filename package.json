@@ -1,0 +1,23 @@
+{
+  "name": "nodetask",
+  "version": "1.0.0",
+  "description": "log request method for csv-file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "node-fetch": "*",
+    "mongodb": "*"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "async"
+  ],
+  "author": "kemolife",
+  "license": "ISC"
+}
